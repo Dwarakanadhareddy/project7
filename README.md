@@ -6,12 +6,13 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://proud-ground-015979a00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/iAyNKCTJ48U
+
 
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -23,6 +24,9 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+
+![Screenshot (990)](https://user-images.githubusercontent.com/117803935/208368287-2050c857-2a8d-4f87-beb7-40c831d2bdae.png)
+![Screenshot (991)](https://user-images.githubusercontent.com/117803935/208368291-3f61523e-d013-426b-aa95-8f21081f5ee3.png)
 ![Screenshot (339)](https://user-images.githubusercontent.com/117803935/205425273-ca7df63d-7f9f-401b-9067-4832b6525525.png)
 ![Screenshot (340)](https://user-images.githubusercontent.com/117803935/205425275-081ab308-359e-49a1-b6af-c4722fe41042.png)
 ![Screenshot (341)](https://user-images.githubusercontent.com/117803935/205425276-80752f19-aa59-4352-b602-be67aeaf58ba.png)
